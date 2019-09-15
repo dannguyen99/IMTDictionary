@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Từ Điển IMT</string>
+    <string name="btnTranslate">dịch</string>
+    <string name="radEn">Tiếng Anh</string>
+    <string name="radVi">Tiếng Việt</string>
+    <string name="radFr">Tiếng Pháp</string>
+    <string name="btnBFav">Bấm vào đây để thêm từ này vào bộ từ yêu thích của bạn</string>
+    <string name="txtEn">Nhập nghĩa tiếng Anh</string>
+    <string name="txtFr">Nhập nghĩa tiếng Pháp</string>
+    <string name="txtVi">Nhập nghĩa tiếng Việt</string>
+    <string name="btnAdd">Thêm vào từ điển</string>
+    <string name="btnClear">Xóa Tất cả</string>
+    <string name="succesful_message">Từ của bạn đã được thêm vào</string>
+    <string name="faild_message">Không thành công. Bàn phải điền đủ cả 3 nghĩa</string>
+    <string name="hintInput">Nhập...</string>
+    <string name="txtSpeed">Tốc độ</string>
+    <string name="txtPitch">Tông</string>
+    <string name="txtScore">Điểm</string>
+    <string name="txtHighScore">Điểm cao nhất</string>
+    <string name="txtGame1Name">NHỚ TỪ</string>
+    <string name="txtTime">Thời gian</string>
+    <string name="txtLanguage">Ngôn ngữ</string>
+    <string name="Start">Chơi</string>
+    <string name="radSpec">Từ chuyên ngành</string>
+    <string name="txtSpec">Nhập từ chuyên ngành</string>
+</resources>

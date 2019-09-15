@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IMT Dictionary</string>
+    <string name="btnTranslate">translate</string>
+    <string name="radEn">English</string>
+    <string name="radVi">Vietnamese</string>
+    <string name="radFr">French</string>
+    <string name="btnBFav">Click here to add this word to your favorite words</string>
+    <string name="txtEn">Enter English meaning here</string>
+    <string name="txtVi">Enter Vietnamese meaning here</string>
+    <string name="txtFr">Enter French meaning here</string>
+    <string name="btnAdd">Add to Dictionary</string>
+    <string name="btnClear">Clear all</string>
+    <string name="succesful_message">Word added to Dictionary</string>
+    <string name="hintInput">Input...</string>
+    <string name="txtSpeed">Speed</string>
+    <string name="txtPitch">Pitch</string>
+    <string name="txtScore">Score</string>
+    <string name="txtHighScore">HighScore</string>
+    <string name="txtGame1Name">REMEMBER WORDS</string>
+    <string name="txtTime">Time</string>
+    <string name="txtLanguage">Language</string>
+    <string name="Start">Start</string>
+    <string name="radSpec">Specialize Words</string>
+    <string name="txtSpec">Enter Specialize Words</string>
+    <string name="faild_message">Failed. You must filled 3 meanings</string>
+</resources>
